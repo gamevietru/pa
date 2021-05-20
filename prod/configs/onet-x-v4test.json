@@ -1,5 +1,5 @@
 {
-  "version": 30,
+  "version": 31,
   "id": "onet-x",
   "templates": {
    "egg-shoot": {
@@ -52,20 +52,6 @@
       "banner": "https://i.imgur.com/OfvmgPO.jpg",
       "inter": {
         "image": "https://i.imgur.com/0ysX589.jpg",
-        "play": {
-          "image": "https://i.imgur.com/tJNKvzh.png",
-          "x": 0,
-          "y": -280
-        }
-      }
-    },
-	  "block-puzzle88": {
-      "id": "3556676234461894",
-      "name": "Block Puzzle 8x8",
-      "icon": "https://i.imgur.com/PEovUhE.png",
-      "banner": "https://i.imgur.com/NjQCAYP.jpg",
-      "inter": {
-        "image": "https://i.imgur.com/rz6ESAY.jpg",
         "play": {
           "image": "https://i.imgur.com/tJNKvzh.png",
           "x": 0,
@@ -137,8 +123,7 @@
   "sets": {
     "default":{
 	 "remove-one-part": 60,
-	 "block-puzzle88" : 10,
-	 "block-puzzle88video" : 10,
+	 "block-puzzle88video" : 20,
 	 "sweet-party" : 20
     }
   },
